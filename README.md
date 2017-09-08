@@ -8,7 +8,7 @@ Where: [Sheraton Towers Singapore](http://www.sheratonsingapore.com/) (OCF confe
 Registration: <https://goo.gl/forms/WmfKNJU6igSwTyr53>
 
 (OCF needs to create badges, so please register **before 2017-10-27**,
-with any last-minute changes up to 2017-09-03)
+with any last-minute changes up to 2017-11-03)
 
 # Venue
 
