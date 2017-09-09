@@ -10,6 +10,9 @@ Registration: <https://goo.gl/forms/WmfKNJU6igSwTyr53>
 (OCF needs to create badges, so please register **before 2017-10-27**,
 with any last-minute changes up to 2017-11-03)
 
+Remote participation: via the OCF WebEx bridge (audio and slides);
+details to be announced early November.
+
 # Venue
 
 [Sheraton Towers Singapore](http://www.sheratonsingapore.com/)
@@ -64,4 +67,7 @@ hours if needed — to be confirmed once agenda is firm)
 |       | — Resource directory, links                                        |
 |       | — Review pipeline from OneIOTA.org to IETF IoT reviewers           |
 | 11:40 | Closing recap and summary of next steps                            |
-| 12:00 | Meeting ends. Lunch.                                               |
+| 12:00 | Meeting ends. Lunch(*).                                            |
+
+(*) T2TRG participants are welcomed by OCF to join the conference
+lunch after the joint meeting.
