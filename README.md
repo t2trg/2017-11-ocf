@@ -62,9 +62,9 @@ hours if needed — to be confirmed once agenda is firm)
 |       | — Use of RD to discover devices in a mesh (across a Border Router) |
 |       | — Cloud Strategy (IETF view), edge computing, big Internet         |
 |       | — IETF view on use of CoAP Native to Cloud etc                     |
-| 11:00 | A common future for LWM2M and OCF?                                 |
-|       | - Devices that conform to both OCF and LWM2M?                      |
-|       | - Evolve with a view on facilitating that?                         |
+| 11:00 | LWM2M and OCF                                                      |
+|       | — Devices that conform to both OCF and LWM2M?                      |
+|       | — IETF's role in evolving the specifications towards each other    |
 | 11:20 | Progress of dependent work in the IETF                             |
 |       | — CoAP over TCP, URIs, coap-at://                                  |
 |       | — CoAP Pub-Sub                                                     |
