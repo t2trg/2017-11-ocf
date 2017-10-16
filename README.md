@@ -40,18 +40,19 @@ Assembling agenda now.  Please discuss changes and additions with the [chairs](m
 
 ## Friday November 10, 2017: Morning
 
-Planned for 8:00am – 12:00pm (might be able to extend into the lunch
+Planned for 8:00am – 12:05pm (might be able to extend into the lunch
 hours if needed — to be confirmed once agenda is firm)
 
 |  Time | Topic                                                              |
-|-------|--------------------------------------------------------------------|
+|-------+--------------------------------------------------------------------|
 |  8:00 | Welcome and intro                                                  |
 |  8:10 | IoT at IETF/IRTF; status update and direction                      |
 |  8:35 | OCF status update and direction                                    |
 |  9:00 | Security                                                           |
-|       | — Object Security (OSCON, OSCOAP)                                  |
+|       | — Object Security (OSCON, OSCOAP, OSCORE)                          |
 |       | — Enabling end-to-end security                                     |
 |       | — Protecting the network, MUD                                      |
+|       | — Using IETF ACE components in OCF?                                |
 |  9:40 | RESTful Interaction, links, forms                                  |
 |       | — synergy with IETF CoRE links work                                |
 |       | — atomic measurements, batch interfaces                            |
@@ -61,13 +62,16 @@ hours if needed — to be confirmed once agenda is firm)
 |       | — Use of RD to discover devices in a mesh (across a Border Router) |
 |       | — Cloud Strategy (IETF view), edge computing, big Internet         |
 |       | — IETF view on use of CoAP Native to Cloud etc                     |
-| 11:10 | Progress of dependent work in the IETF                             |
+| 11:00 | A common future for LWM2M and OCF?                                 |
+|       | - Devices that conform to both OCF and LWM2M?                      |
+|       | - Evolve with a view on facilitating that?                         |
+| 11:20 | Progress of dependent work in the IETF                             |
 |       | — CoAP over TCP, URIs, coap-at://                                  |
 |       | — CoAP Pub-Sub                                                     |
 |       | — Resource directory, links                                        |
 |       | — Review pipeline from OneIOTA.org to IETF IoT reviewers           |
-| 11:40 | Closing recap and summary of next steps                            |
-| 12:00 | Meeting ends. Lunch(*).                                            |
+| 11:45 | Closing recap and summary of next steps                            |
+| 12:05 | Meeting ends. Lunch(*).                                            |
 
 (*) T2TRG participants are welcomed by OCF to join the conference
 lunch after the joint meeting.
