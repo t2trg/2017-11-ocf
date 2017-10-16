@@ -44,7 +44,7 @@ Planned for 8:00am – 12:05pm (might be able to extend into the lunch
 hours if needed — to be confirmed once agenda is firm)
 
 |  Time | Topic                                                              |
-|-------+--------------------------------------------------------------------|
+|-------|--------------------------------------------------------------------|
 |  8:00 | Welcome and intro                                                  |
 |  8:10 | IoT at IETF/IRTF; status update and direction                      |
 |  8:35 | OCF status update and direction                                    |
