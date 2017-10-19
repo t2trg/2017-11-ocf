@@ -57,15 +57,12 @@ hours if needed — to be confirmed once agenda is firm)
 |       | — synergy with IETF CoRE links work                                |
 |       | — atomic measurements, batch interfaces                            |
 |       | — CORAL and HSML                                                   |
-| 10:10 | Break                                                              |
-| 10:30 | Ubiquitous Discovery and Connectivity                              |
+| 10:15 | Break                                                              |
+| 10:35 | Ubiquitous Discovery and Connectivity                              |
 |       | — Use of RD to discover devices in a mesh (across a Border Router) |
 |       | — Cloud Strategy (IETF view), edge computing, big Internet         |
 |       | — IETF view on use of CoAP Native to Cloud etc                     |
-| 11:00 | LWM2M and OCF                                                      |
-|       | — Devices that conform to both OCF and LWM2M?                      |
-|       | — IETF's role in evolving the specifications towards each other    |
-| 11:20 | Progress of dependent work in the IETF                             |
+| 11:15 | Progress of dependent work in the IETF                             |
 |       | — CoAP over TCP, URIs, coap-at://                                  |
 |       | — CoAP Pub-Sub                                                     |
 |       | — Resource directory, links                                        |
