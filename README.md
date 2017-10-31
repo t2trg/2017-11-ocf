@@ -10,8 +10,10 @@ Registration: <https://goo.gl/forms/WmfKNJU6igSwTyr53>
 (OCF needs to create badges, so please register **before 2017-10-27**,
 with any last-minute changes up to 2017-11-03)
 
-Remote participation: via the OCF WebEx bridge (audio and slides);
-details to be announced early November.
+Remote participation: [OCF WebEx](https://openconnectivity.webex.com/openconnectivity/j.php?MTID=ma1f98960326960788dfcc27d9ecbd4af)
+
+Meeting number (access code): 922 181 638      
+Meeting password: 1234  
 
 # Venue
 
