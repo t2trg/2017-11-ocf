@@ -53,7 +53,7 @@ hours if needed — to be confirmed once agenda is firm)
 |  9:00 | Security                                                           | Chairs/Phil Hawkes  |
 |       | — Object Security (OSCON, OSCOAP, OSCORE)                          | Francesca Palombini |
 |       | — Enabling end-to-end security                                     | FP, Dave Thaler     |
-|       | — Protecting the network, MUD                                      | TBD/Chairs          |
+|       | — Protecting the network, MUD                                      | Eliot Lear          |
 |       | — Using IETF ACE components in OCF?                                | Hannes Tschofenig   |
 |  9:40 | RESTful Interaction, links, forms                                  | Chairs / Mark Trayer|
 |       | — synergy with IETF CoRE links work                                | Michael Koster      |
