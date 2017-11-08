@@ -62,8 +62,9 @@ hours if needed — to be confirmed once agenda is firm)
 | 10:15 | Break                                                              |                     |
 | 10:35 | Ubiquitous Discovery and Connectivity                              |                     |
 |       | — Use of RD to discover devices in a mesh (across a Border Router) | Mark Trayer         |
-|       | — Cloud Strategy (IETF view), edge computing, big Internet         | Jieun Keum / Chairs |
-|       | — IETF view on use of CoAP Native to Cloud etc                     | Jieun Keum / Chairs |
+|       | — Cloud Strategy (IETF view), edge computing, big Internet         | Chairs / Jieun Keum |
+|       | — IETF view on use of CoAP Native to Cloud etc                     | Chairs / Jieun Keum |
+|       | — IoT NAT traversal                                                | Christer Holmberg   |
 | 11:15 | Progress of dependent work in the IETF                             | Chairs / Richard Bardini|
 |       | — CoAP over TCP, URIs, coap-at://                                  | Carsten Bormann     |
 |       | — CoAP Pub-Sub                                                     | Michael Koster      |
