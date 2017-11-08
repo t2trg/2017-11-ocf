@@ -5,6 +5,8 @@ When: Friday, November 10th, 2017
 
 Where: [Sheraton Towers Singapore](http://www.sheratonsingapore.com/) (OCF conference hotel)
 
+Meeting room: Ballroom 3/4 (2nd floor). Pick-up name badges at registration desk in the Foyer of Ballroom 3/4 on 2nd floor.
+
 Registration: <https://goo.gl/forms/WmfKNJU6igSwTyr53>
 
 (OCF needs to create badges, so please register **before 2017-10-27**,
@@ -27,8 +29,6 @@ Register for the joint meeting through the above registration link.
 (IETF attendees do not need to register through the OCF meeting
 registration site because they do not need to pay the fee.)
 
-Meeting room capacity is 60 people classroom seating.
-
 ## Staying in the OCF hotel:
 
 * [Hotel Sleeping Room Reservations](https://www.starwoodmeeting.com/events/start.action?id=1705302600&key=16BB8AA0)
@@ -45,30 +45,30 @@ Assembling agenda now.  Please discuss changes and additions with the [chairs](m
 Planned for 8:00am – 12:05pm (might be able to extend into the lunch
 hours if needed — to be confirmed once agenda is firm)
 
-|  Time | Topic                                                              | Slot owner          |
+|  Time | Topic                                                              | Who                 |
 |-------|--------------------------------------------------------------------|---------------------|
 |  8:00 | Welcome and intro                                                  | Chairs              |
 |  8:10 | IoT at IETF/IRTF; status update and direction                      | Chairs              |
 |  8:35 | OCF status update and direction                                    | Mark Trayer         |
-|  9:00 | Security                                                           |                     |
+|  9:00 | Security                                                           | Chairs/Phil Hawkes  |
 |       | — Object Security (OSCON, OSCOAP, OSCORE)                          | Francesca Palombini |
-|       | — Enabling end-to-end security                                     | FP, Dave Thaler?    |
+|       | — Enabling end-to-end security                                     | FP, Dave Thaler     |
 |       | — Protecting the network, MUD                                      | TBD/Chairs          |
 |       | — Using IETF ACE components in OCF?                                | Hannes Tschofenig   |
-|  9:40 | RESTful Interaction, links, forms                                  |                     |
-|       | — synergy with IETF CoRE links work                                | TBD/OCF             |
-|       | — atomic measurements, batch interfaces                            | TBD/OCF             |
+|  9:40 | RESTful Interaction, links, forms                                  | Chairs / Mark Trayer|
+|       | — synergy with IETF CoRE links work                                | Michael Koster      |
+|       | — atomic measurements, batch interfaces                            | Herve Jourdain      |
 |       | — CORAL and HSML                                                   | TBD/Chairs          |
 | 10:15 | Break                                                              |                     |
 | 10:35 | Ubiquitous Discovery and Connectivity                              |                     |
-|       | — Use of RD to discover devices in a mesh (across a Border Router) | TBD/OCF             |
-|       | — Cloud Strategy (IETF view), edge computing, big Internet         | TBD/Chairs          |
-|       | — IETF view on use of CoAP Native to Cloud etc                     | TBD/Chairs          |
-| 11:15 | Progress of dependent work in the IETF                             |                     |
+|       | — Use of RD to discover devices in a mesh (across a Border Router) | Mark Trayer         |
+|       | — Cloud Strategy (IETF view), edge computing, big Internet         | Jieun Keum / Chairs |
+|       | — IETF view on use of CoAP Native to Cloud etc                     | Jieun Keum / Chairs |
+| 11:15 | Progress of dependent work in the IETF                             | Chairs / Richard Bardini|
 |       | — CoAP over TCP, URIs, coap-at://                                  | Carsten Bormann     |
-|       | — CoAP Pub-Sub                                                     | TBD/Chairs          |
+|       | — CoAP Pub-Sub                                                     | Michael Koster      |
 |       | — Resource directory, links                                        | TBD/Chairs          |
-|       | — Review pipeline from OneIOTA.org to IETF IoT reviewers           | TBD/OCf             |
+|       | — Review pipeline from OneIOTA.org to IETF IoT reviewers           | Clarke Stevens      |
 | 11:45 | Closing recap and summary of next steps                            | (All)               |
 | 12:05 | Meeting ends. Lunch(*).                                            |                     |
 
