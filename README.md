@@ -66,7 +66,8 @@ hours if needed — to be confirmed once agenda is firm)
 |       | — IETF view on use of CoAP Native to Cloud etc                     | Chairs / Jieun Keum |
 |       | — IoT NAT traversal                                                | Christer Holmberg   |
 | 11:15 | Progress of dependent work in the IETF                             | Chairs / Richard Bardini|
-|       | — CoAP over TCP, URIs, coap-at://                                  | Carsten Bormann     |
+|       | — CoAP over TCP                                                    | Carsten Bormann     |
+|       | — CoAP URIs, coap-at://                                            | Jaime Jimenez       |
 |       | — CoAP Pub-Sub                                                     | Michael Koster      |
 |       | — Resource directory, links                                        | TBD/Chairs          |
 |       | — Review pipeline from OneIOTA.org to IETF IoT reviewers           | Clarke Stevens      |
