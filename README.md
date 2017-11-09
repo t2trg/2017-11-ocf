@@ -45,34 +45,34 @@ Assembling agenda now.  Please discuss changes and additions with the [chairs](m
 Planned for 8:00am – 12:05pm (might be able to extend into the lunch
 hours if needed — to be confirmed once agenda is firm)
 
-|  Time | Topic                                                              | Who                 |
-|-------|--------------------------------------------------------------------|---------------------|
-|  8:00 | Welcome and intro                                                  | Chairs              |
-|  8:10 | IoT at IETF/IRTF; status update and direction                      | Chairs              |
-|  8:35 | OCF status update and direction                                    | Mark Trayer         |
-|  9:00 | Security                                                           | Chairs/Phil Hawkes  |
-|       | — Object Security (OSCON, OSCOAP, OSCORE)                          | Francesca Palombini |
-|       | — Enabling end-to-end security                                     | FP, Dave Thaler     |
-|       | — Protecting the network, MUD                                      | Eliot Lear          |
-|       | — Using IETF ACE components in OCF?                                | Hannes Tschofenig   |
-|  9:40 | RESTful Interaction, links, forms                                  | Chairs / Mark Trayer|
-|       | — synergy with IETF CoRE links work                                | Michael Koster      |
-|       | — atomic measurements, batch interfaces                            | Herve Jourdain      |
-|       | — CORAL and HSML                                                   | TBD/Chairs          |
-| 10:15 | Break                                                              |                     |
-| 10:35 | Ubiquitous Discovery and Connectivity                              |                     |
-|       | — Use of RD to discover devices in a mesh (across a Border Router) | Mark Trayer         |
-|       | — Cloud Strategy (IETF view), edge computing, big Internet         | Chairs / Jieun Keum |
-|       | — IETF view on use of CoAP Native to Cloud etc                     | Chairs / Jieun Keum |
-|       | — IoT NAT traversal                                                | Christer Holmberg   |
-| 11:15 | Progress of dependent work in the IETF                             | Chairs / Richard Bardini|
-|       | — CoAP over TCP                                                    | Carsten Bormann     |
-|       | — CoAP URIs, coap-at://                                            | Jaime Jimenez       |
-|       | — CoAP Pub-Sub                                                     | Michael Koster      |
-|       | — Resource directory, links                                        | TBD/Chairs          |
-|       | — Review pipeline from OneIOTA.org to IETF IoT reviewers           | Clarke Stevens      |
-| 11:45 | Closing recap and summary of next steps                            | (All)               |
-| 12:05 | Meeting ends. Lunch(*).                                            |                     |
+|  Time | Topic                                                              | Who                          |
+|-------+--------------------------------------------------------------------+------------------------------|
+|  8:00 | Welcome and intro                                                  | Chairs                       |
+|  8:10 | IoT at IETF/IRTF; status update and direction                      | Chairs                       |
+|  8:35 | OCF status update and direction                                    | Mark Trayer                  |
+|  9:00 | Security                                                           | Chairs/Phil Hawkes           |
+|       | — Object Security (OSCON, OSCOAP, OSCORE)                          | Francesca Palombini          |
+|       | — Enabling end-to-end security                                     | FP, Dave Thaler              |
+|       | — Protecting the network, MUD                                      | Eliot Lear                   |
+|       | — Using IETF ACE components in OCF?                                | Hannes Tschofenig            |
+|  9:40 | RESTful Interaction, links, forms                                  | Chairs / Mark Trayer         |
+|       | — synergy with IETF CoRE links work                                | Michael Koster               |
+|       | — atomic measurements, batch interfaces                            | Herve Jourdain               |
+|       | — CORAL and HSML                                                   | TBD/Chairs                   |
+| 10:15 | Break                                                              |                              |
+| 10:35 | Ubiquitous Discovery and Connectivity                              |                              |
+|       | — Use of RD to discover devices in a mesh (across a Border Router) | Mark Trayer                  |
+|       | — Cloud Strategy (IETF view), edge computing, big Internet         | Chairs / Jieun Keum          |
+|       | — IETF view on use of CoAP Native to Cloud etc                     | Chairs / Jieun Keum          |
+|       | — IoT NAT traversal                                                | Christer Holmberg            |
+| 11:15 | Progress of dependent work in the IETF                             | Chairs / Richard Bardini     |
+|       | — CoAP over TCP                                                    | Carsten Bormann              |
+|       | — CoAP URIs, coap-at://, protocol negotiation?                     | Jaime Jimenez                |
+|       | — CoAP Pub-Sub, YANG Push/telemetry in COMI                        | Michael Koster/Henk Birkholz |
+|       | — Resource directory, links                                        | TBD/Chairs                   |
+|       | — Review pipeline from OneIOTA.org to IETF IoT reviewers           | Clarke Stevens               |
+| 11:45 | Closing recap and summary of next steps                            | (All)                        |
+| 12:05 | Meeting ends. Lunch(*).                                            |                              |
 
 (*) T2TRG participants are welcomed by OCF to join the conference
 lunch after the joint meeting.
