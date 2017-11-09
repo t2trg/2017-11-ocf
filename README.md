@@ -46,7 +46,7 @@ Planned for 8:00am – 12:05pm (might be able to extend into the lunch
 hours if needed — to be confirmed once agenda is firm)
 
 |  Time | Topic                                                              | Who                          |
-|-------+--------------------------------------------------------------------+------------------------------|
+|-------|--------------------------------------------------------------------|------------------------------|
 |  8:00 | Welcome and intro                                                  | Chairs                       |
 |  8:10 | IoT at IETF/IRTF; status update and direction                      | Chairs                       |
 |  8:35 | OCF status update and direction                                    | Mark Trayer                  |
