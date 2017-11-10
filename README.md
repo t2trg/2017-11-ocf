@@ -17,6 +17,8 @@ Remote participation: [OCF WebEx](https://openconnectivity.webex.com/openconnect
 Meeting number (access code): 922 181 638      
 Meeting password: 1234  
 
+Live notes in Google doc: https://docs.google.com/document/d/11iZ4k7XU6C1WTlUKbKRqgsyyVkfFIPVWaFiRw1vBcqU/edit?usp=sharing
+
 # Venue
 
 [Sheraton Towers Singapore](http://www.sheratonsingapore.com/)
